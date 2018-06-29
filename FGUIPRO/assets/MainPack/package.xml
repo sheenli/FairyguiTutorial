@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="3o2746g1" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="mvw20" name="房间列表.png" path="/Images/"/>
+    <image id="mvw21" name="抚顺麻将大厅1.png" path="/Images/"/>
+    <image id="mvw22" name="cd1_btn_normal.png" path="/Images/"/>
+    <image id="mvw23" name="cd1_btn_press.png" path="/Images/"/>
+    <image id="mvw24" name="cd2_btn_normal.png" path="/Images/"/>
+    <image id="mvw25" name="cd2_btn_press.png" path="/Images/"/>
+    <image id="mvw26" name="cddt.png" path="/Images/"/>
+    <image id="mvw27" name="dyj_btn_normal.png" path="/Images/"/>
+    <image id="mvw28" name="dyj_btn_press.png" path="/Images/"/>
+    <image id="mvw29" name="fjgz_btn_normal.png" path="/Images/"/>
+    <image id="mvw2a" name="fjgz_btn_press.png" path="/Images/"/>
+    <image id="mvw2b" name="fjgzsq_btn_normal.png" path="/Images/"/>
+    <image id="mvw2c" name="fjgzsq_btn_press.png" path="/Images/"/>
+    <image id="mvw2d" name="fjlb_btn_normal.png" path="/Images/"/>
+    <image id="mvw2e" name="fjlb_btn_press.png" path="/Images/"/>
+    <image id="mvw2f" name="fjlbdt.png" path="/Images/"/>
+    <image id="mvw2g" name="fx_btn_normal.png" path="/Images/"/>
+    <image id="mvw2h" name="fx_btn_press.png" path="/Images/"/>
+    <image id="mvw2i" name="fxyl.png" path="/Images/"/>
+    <image id="mvw2j" name="gz_btn_normal.png" path="/Images/"/>
+    <image id="mvw2k" name="gz_btn_press.png" path="/Images/"/>
+    <image id="mvw2l" name="hdchcs.png" path="/Images/"/>
+    <image id="mvw2m" name="jrfj_btn_normal.png" path="/Images/"/>
+    <image id="mvw2n" name="jrfj_btn_press.png" path="/Images/"/>
+    <image id="mvw2o" name="ksfj_btn_normal.png" path="/Images/"/>
+    <image id="mvw2p" name="ksfj_btn_press.png" path="/Images/"/>
+    <image id="mvw2q" name="lb.png" path="/Images/"/>
+    <image id="mvw2r" name="lbdt.png" path="/Images/"/>
+    <image id="mvw2s" name="LOGO.png" path="/Images/"/>
+    <image id="mvw2t" name="LOGOdt.png" path="/Images/"/>
+    <image id="mvw2u" name="lx_btn_normal.png" path="/Images/"/>
+    <image id="mvw2v" name="lx_btn_press.png" path="/Images/"/>
+    <image id="mvw2w" name="ph1.png" path="/Images/"/>
+    <image id="mvw2x" name="ph2.png" path="/Images/"/>
+    <image id="mvw2y" name="ph3.png" path="/Images/"/>
+    <image id="mvw2z" name="phbg.png" path="/Images/"/>
+    <image id="mvw210" name="phdt.png" path="/Images/"/>
+    <image id="mvw211" name="phwjdt.png" path="/Images/"/>
+    <image id="mvw212" name="sz_btn_normal.png" path="/Images/"/>
+    <image id="mvw213" name="sz_btn_press.png" path="/Images/"/>
+    <image id="mvw214" name="tc_btn_normal.png" path="/Images/"/>
+    <image id="mvw215" name="tc_btn_press.png" path="/Images/"/>
+    <image id="mvw216" name="thb_btn_normal.png" path="/Images/"/>
+    <image id="mvw217" name="thb'_btn_press.png" path="/Images/"/>
+    <image id="mvw218" name="txdtid.png" path="/Images/"/>
+    <image id="mvw219" name="txdtmz.png" path="/Images/"/>
+    <image id="mvw21a" name="txdttx.png" path="/Images/"/>
+    <image id="mvw21b" name="xx_btn_normal.png" path="/Images/"/>
+    <image id="mvw21c" name="xx_btn_press.png" path="/Images/"/>
+    <image id="mvw21d" name="yq_btn_normal.png" path="/Images/"/>
+    <image id="mvw21e" name="yq_btn_press.png" path="/Images/"/>
+    <image id="mvw21f" name="yqm_btn_normal.png" path="/Images/"/>
+    <image id="mvw21g" name="yqm_btn_press.png" path="/Images/"/>
+    <image id="mvw21h" name="zj_btn_normal.png" path="/Images/"/>
+    <image id="mvw21i" name="zj_btn_press.png" path="/Images/"/>
+    <image id="mvw21j" name="zs.png" path="/Images/"/>
+    <image id="mvw21k" name="zsdt.png" path="/Images/"/>
+    <image id="mvw21l" name="zsjh_btn_normal.png" path="/Images/"/>
+    <image id="mvw21m" name="zsjh_btn_press.png" path="/Images/"/>
+    <image id="mvw21n" name="登录背景.png" path="/Images/" scale="" atlas="alone_npot"/>
+    <component id="mvw21p" name="showImagetoUinty.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="MainPack" path="C:\Users\Administrator\Desktop\fairyGUI教程\Project\UnityProject\Assets\AB"/>
+</packageDescription>

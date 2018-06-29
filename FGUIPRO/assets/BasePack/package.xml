@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ao4zfa5a" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="mvw20" name="btdt.png" path="/Images/" exported="true" scale="" scale9grid="74,16,149,32"/>
+    <image id="mvw21" name="gb_btn_normal.png" path="/Images/" exported="true"/>
+    <image id="mvw22" name="gb_btn_press.png" path="/Images/" exported="true"/>
+    <image id="mvw23" name="lqjl_btn_normal.png" path="/Images/" exported="true"/>
+    <image id="mvw24" name="lqjl_btn_press.png" path="/Images/" exported="true"/>
+    <image id="mvw25" name="qd_btn_normal.png" path="/Images/" exported="true"/>
+    <image id="mvw26" name="qd_btn_press.png" path="/Images/" exported="true"/>
+    <image id="mvw27" name="qdqd_btn_normal.png" path="/Images/" exported="true"/>
+    <image id="mvw28" name="qdqd_btn_press.png" path="/Images/" exported="true"/>
+    <image id="mvw29" name="qhzh_btn_normal.png" path="/Images/" exported="true"/>
+    <image id="mvw2a" name="qhzh_btn_press.png" path="/Images/" exported="true"/>
+    <image id="mvw2b" name="qx_btn_normal.png" path="/Images/" exported="true"/>
+    <image id="mvw2c" name="qx_btn_press.png" path="/Images/" exported="true"/>
+    <image id="mvw2d" name="qxqx_btn_normal.png" path="/Images/" exported="true"/>
+    <image id="mvw2e" name="qxqx_btn_press.png" path="/Images/" exported="true"/>
+    <image id="mvw2f" name="srxxdt.png" path="/Images/" exported="true"/>
+  </resources>
+  <publish name="BasePack" path="C:\Users\Administrator\Desktop\新建文件夹"/>
+</packageDescription>
