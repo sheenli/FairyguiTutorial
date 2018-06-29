@@ -10,6 +10,8 @@ public class ShowImageToUnityExp : MonoBehaviour
     private GComponent mShowImagetoUintyCom = null;
     void Awake()
     {
+        UIConfig.defaultFont = "test";
+        FairyGUI.FontManager.RegisterFont(FontManager.GetFont("Microsoft Yahei"), "迷你简准圆");
         GRoot.inst.SetContentScaleFactor(1136, 640);
 
         LoadRes(() =>
@@ -24,7 +26,8 @@ public class ShowImageToUnityExp : MonoBehaviour
         {
             "MainPack.bytes",
             "MainPack@atlas_mvw21n.png",
-            "MainPack@sprites.bytes"
+            "MainPack@sprites.bytes",
+            "MainPack@atlas0.png"
         };
         foreach (string name in loadNames)
         {
@@ -44,7 +47,7 @@ public class ShowImageToUnityExp : MonoBehaviour
         }
         return null;
     }
-
+    
     void CreateCom()
     {
         GObject go = UIPackage.CreateObject("MainPack", "showImagetoUinty");
@@ -59,5 +62,21 @@ public class ShowImageToUnityExp : MonoBehaviour
         {
             Debug.LogError("创建对象失败");
         }
+        //this.TestTextFieldAndInut();
     }
+
+#region 文本测试代码
+    public void TestTextFieldAndInut()
+    {
+        GTextField mTextFieldTest = this.mShowImagetoUintyCom.GetChild("TextFieldTest")
+            .asTextField;
+        mTextFieldTest.text = "测试";
+
+        GTextInput input = mTextFieldTest.asTextInput;
+        if (input != null)
+        {
+            input.editable = false;
+        }
+    }
+#endregion
 }

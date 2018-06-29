@@ -3,7 +3,7 @@
   <resources>
     <image id="mvw20" name="房间列表.png" path="/Images/"/>
     <image id="mvw21" name="抚顺麻将大厅1.png" path="/Images/"/>
-    <image id="mvw22" name="cd1_btn_normal.png" path="/Images/"/>
+    <image id="mvw22" name="cd1_btn_normal.png" path="/Images/" exported="true"/>
     <image id="mvw23" name="cd1_btn_press.png" path="/Images/"/>
     <image id="mvw24" name="cd2_btn_normal.png" path="/Images/"/>
     <image id="mvw25" name="cd2_btn_press.png" path="/Images/"/>
@@ -62,6 +62,30 @@
     <image id="mvw21m" name="zsjh_btn_press.png" path="/Images/"/>
     <image id="mvw21n" name="登录背景.png" path="/Images/" scale="" atlas="alone_npot"/>
     <component id="mvw21p" name="showImagetoUinty.xml" path="/" exported="true"/>
+    <image id="lf1d1r" name="chcs_num_6.png" path="/NumImages/"/>
+    <image id="lf1d1s" name="chcs_num_7.png" path="/NumImages/"/>
+    <image id="lf1d1t" name="chcs_num_8.png" path="/NumImages/"/>
+    <image id="lf1d1u" name="chcs_num_9.png" path="/NumImages/"/>
+    <image id="lf1d1v" name="chcs_num_0.png" path="/NumImages/"/>
+    <image id="lf1d1w" name="chcs_num_1.png" path="/NumImages/"/>
+    <image id="lf1d1x" name="chcs_num_2.png" path="/NumImages/"/>
+    <image id="lf1d1y" name="chcs_num_3.png" path="/NumImages/"/>
+    <image id="lf1d1z" name="chcs_num_4.png" path="/NumImages/"/>
+    <image id="lf1d20" name="chcs_num_5.png" path="/NumImages/"/>
+    <font id="lf1d21" name="TestArtNum.fnt" path="/NumImages/" exported="true"/>
+    <component id="lf1d23" name="ImageExp.xml" path="/EffectImage/" exported="true"/>
+    <movieclip id="lf1d24" name="36.jta" path="/EffectImage/"/>
+    <image id="lf1d25" name="进度指示0001.png" path="/EffectImage/"/>
+    <image id="lf1d26" name="进度指示0002.png" path="/EffectImage/"/>
+    <image id="lf1d27" name="进度指示0003.png" path="/EffectImage/"/>
+    <image id="lf1d28" name="进度指示0004.png" path="/EffectImage/"/>
+    <image id="lf1d29" name="进度指示0005.png" path="/EffectImage/"/>
+    <image id="lf1d2a" name="进度指示0006.png" path="/EffectImage/"/>
+    <image id="lf1d2b" name="进度指示0007.png" path="/EffectImage/"/>
+    <image id="lf1d2c" name="进度指示0008.png" path="/EffectImage/"/>
+    <image id="lf1d2d" name="进度指示0009.png" path="/EffectImage/"/>
+    <image id="lf1d2e" name="进度指示0010.png" path="/EffectImage/"/>
+    <movieclip id="lf1d2f" name="MovieClip1.jta" path="/EffectImage/"/>
   </resources>
-  <publish name="MainPack" path="C:\Users\Administrator\Desktop\fairyGUI教程\Project\UnityProject\Assets\AB"/>
+  <publish name="MainPack" path="C:\Users\Administrator\Desktop\FairyguiTutorial\UnityProject\Assets\AB"/>
 </packageDescription>

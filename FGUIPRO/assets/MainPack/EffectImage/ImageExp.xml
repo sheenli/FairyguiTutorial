@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <image id="n0_lf1d" name="n0" src="mvw21n" fileName="Images/登录背景.png" xy="0,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <movieclip id="n1_lf1d" name="n1" src="lf1d24" fileName="EffectImage/36.jta" xy="135,71" size="100,100"/>
+    <movieclip id="n2_lf1d" name="n2" src="lf1d2f" fileName="EffectImage/MovieClip1.jta" xy="304,82"/>
+    <loader id="n3_lf1d" name="gloader" xy="457,290" size="157,158" align="center" vAlign="middle" fill="scaleFree"/>
+  </displayList>
+</component>

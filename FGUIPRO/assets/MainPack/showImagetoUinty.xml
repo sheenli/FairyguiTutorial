@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640" adaptationTest="FitSize">
   <displayList>
-    <image id="n0_mvw2" name="n0" src="mvw21n" fileName="Images/登录背景.png" xy="0,0">
+    <image id="n0_mvw2" name="n0" src="mvw21n" fileName="Images/登录背景.png" xy="-6,-1">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
+    <text id="n2_lf1d" name="TextFieldTest" xy="114,54" size="105,60" input="true" font="迷你简准圆" fontSize="50" color="#a0ff12" ubb="true" text="你好"/>
+    <text id="n3_lf1d" name="TextFieldTest2" xy="1,53" size="105,61" input="true" fontSize="50" color="#a0ff12" ubb="true" text="你好"/>
+    <text id="n4_lf1d" name="TextFieldTestArtFont" xy="9,14" size="154,35" font="ui://3o2746g1lf1d21" fontSize="50" color="#a0ff12" ubb="true" text="123456"/>
   </displayList>
 </component>
