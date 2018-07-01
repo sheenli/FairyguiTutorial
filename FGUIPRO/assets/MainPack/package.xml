@@ -86,6 +86,8 @@
     <image id="lf1d2d" name="进度指示0009.png" path="/EffectImage/"/>
     <image id="lf1d2e" name="进度指示0010.png" path="/EffectImage/"/>
     <movieclip id="lf1d2f" name="MovieClip1.jta" path="/EffectImage/"/>
+    <component id="8q892h" name="NewCom.xml" path="/"/>
+    <image id="8q892i" name="n5.png" path="/"/>
   </resources>
   <publish name="MainPack" path="C:\Users\Administrator\Desktop\FairyguiTutorial\UnityProject\Assets\AB"/>
 </packageDescription>

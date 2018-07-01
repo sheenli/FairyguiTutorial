@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,400" overflow="scroll" scroll="horizontal" scrollBarFlags="8">
+  <displayList>
+    <graph id="n1_8q89" name="n1" xy="501,128" size="310,145" alpha="0.63" type="rect"/>
+    <image id="n3_8q89" name="n3" src="mvw2p" fileName="Images/ksfj_btn_press.png" xy="39,137"/>
+  </displayList>
+</component>

@@ -57,6 +57,9 @@ public class ShowImageToUnityExp : MonoBehaviour
             GRoot.inst.AddChild(mShowImagetoUintyCom);
             mShowImagetoUintyCom.size = GRoot.inst.size;
             mShowImagetoUintyCom.Center(true);
+            string data= mShowImagetoUintyCom.packageItem
+                .componentData.GetAttribute("customData");
+            Debug.LogError("customData="+data);
         }
         else
         {

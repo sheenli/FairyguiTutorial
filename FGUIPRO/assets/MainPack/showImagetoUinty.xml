@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1136,640" adaptationTest="FitSize">
+<component size="1136,640" pivot="0.5,0.5" remark="selfdata=123" adaptationTest="FitSize">
   <displayList>
-    <image id="n0_mvw2" name="n0" src="mvw21n" fileName="Images/登录背景.png" xy="-6,-1">
+    <image id="n0_mvw2" name="n0" src="mvw21n" fileName="Images/登录背景.png" xy="0,0" pivot="0.5,0.5">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
     <text id="n2_lf1d" name="TextFieldTest" xy="114,54" size="105,60" input="true" font="迷你简准圆" fontSize="50" color="#a0ff12" ubb="true" text="你好"/>
     <text id="n3_lf1d" name="TextFieldTest2" xy="1,53" size="105,61" input="true" fontSize="50" color="#a0ff12" ubb="true" text="你好"/>
     <text id="n4_lf1d" name="TextFieldTestArtFont" xy="9,14" size="154,35" font="ui://3o2746g1lf1d21" fontSize="50" color="#a0ff12" ubb="true" text="123456"/>
+    <text id="n6_8q89" name="n6" xy="49,237" size="533,106" input="true" font="Microsoft YaHei" fontSize="30" autoSize="none" text="测试测试测试测试测试"/>
+    <component id="n5_8q89" name="n5" src="8q892h" fileName="NewCom.xml" xy="2,226"/>
   </displayList>
 </component>

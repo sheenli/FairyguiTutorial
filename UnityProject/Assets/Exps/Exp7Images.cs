@@ -11,7 +11,6 @@ public class Exp7Images : MonoBehaviour
     void Awake()
     {
         GRoot.inst.SetContentScaleFactor(1136, 640);
-
         LoadRes(() =>
         {
             UIPackage.AddPackage("MainPack", GetRes);
