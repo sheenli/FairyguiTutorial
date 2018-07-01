@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="350,121">
+  <displayList>
+    <image id="n1_a9ue" name="n1" src="mvw2m" fileName="Images/jrfj_btn_normal.png" xy="0,0"/>
+    <image id="n2_a9ue" name="n2" src="mvw2o" fileName="Images/ksfj_btn_normal.png" xy="0,0"/>
+  </displayList>
+</component>

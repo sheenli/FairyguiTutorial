@@ -88,6 +88,8 @@
     <movieclip id="lf1d2f" name="MovieClip1.jta" path="/EffectImage/"/>
     <component id="8q892h" name="NewCom.xml" path="/"/>
     <image id="8q892i" name="n5.png" path="/"/>
+    <component id="a9ue2j" name="ExtComExp9.xml" path="/" exported="true"/>
+    <component id="a9ue2k" name="ExtTestCom.xml" path="/"/>
   </resources>
   <publish name="MainPack" path="C:\Users\Administrator\Desktop\FairyguiTutorial\UnityProject\Assets\AB"/>
 </packageDescription>

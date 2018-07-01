@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <image id="n0_a9ue" name="n0" src="mvw21n" fileName="Images/登录背景.png" xy="0,0" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n1_a9ue" name="n1" src="a9ue2k" fileName="ExtTestCom.xml" xy="339,228"/>
+  </displayList>
+</component>
