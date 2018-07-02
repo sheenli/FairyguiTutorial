@@ -90,6 +90,7 @@
     <image id="8q892i" name="n5.png" path="/"/>
     <component id="a9ue2j" name="ExtComExp9.xml" path="/" exported="true"/>
     <component id="a9ue2k" name="ExtTestCom.xml" path="/"/>
+    <component id="a9ue2l" name="Exp10Ctrl.xml" path="/Ctrl/" exported="true"/>
   </resources>
   <publish name="MainPack" path="C:\Users\Administrator\Desktop\FairyguiTutorial\UnityProject\Assets\AB"/>
 </packageDescription>

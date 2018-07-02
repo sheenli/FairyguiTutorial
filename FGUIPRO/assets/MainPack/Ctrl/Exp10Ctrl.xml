@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <controller name="c1" pages="0,加入房间,1,创建房间" selected="0"/>
+  <controller name="c2" pages="0,位置1,1,位置2" selected="0"/>
+  <displayList>
+    <image id="n0_a9ue" name="n0" src="mvw2m" fileName="Images/jrfj_btn_normal.png" xy="393,259">
+      <gearDisplay controller="c1" pages="0"/>
+      <gearXY controller="c2" pages="0" values="393,259" default="40,6" tween="true"/>
+    </image>
+    <image id="n1_a9ue" name="n1" src="mvw2o" fileName="Images/ksfj_btn_normal.png" xy="41,6">
+      <gearDisplay controller="c1" pages="1"/>
+      <gearColor controller="c2" pages="1" values="#ff0000" default="#ffffff" tween="true"/>
+    </image>
+  </displayList>
+</component>
