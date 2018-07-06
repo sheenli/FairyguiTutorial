@@ -91,6 +91,17 @@
     <component id="a9ue2j" name="ExtComExp9.xml" path="/" exported="true"/>
     <component id="a9ue2k" name="ExtTestCom.xml" path="/"/>
     <component id="a9ue2l" name="Exp10Ctrl.xml" path="/Ctrl/" exported="true"/>
+    <component id="eewf2m" name="ExtComExp12.xml" path="/" exported="true"/>
+    <component id="eewf2o" name="Button1.xml" path="/"/>
+    <component id="jxrw2q" name="ChoiceCountRound.xml" path="/NumImages/"/>
+    <image id="jxrw2r" name="选择（off）.png" path="/NumImages/房间/"/>
+    <image id="jxrw2s" name="选择（on）.png" path="/NumImages/房间/"/>
+    <component id="jxrw2t" name="ChoiceCountRound.xml" path="/"/>
+    <image id="jxrw2u" name="选择（off）.png" path="/房间/"/>
+    <image id="jxrw2v" name="选择（on）.png" path="/房间/"/>
+    <component id="jxrw2w" name="PlayingMethod.xml" path="/"/>
+    <image id="jxrw2x" name="勾选框.png" path="/房间/"/>
+    <image id="jxrw2y" name="√.png" path="/房间/" exported="true"/>
   </resources>
   <publish name="MainPack" path="C:\Users\Administrator\Desktop\FairyguiTutorial\UnityProject\Assets\AB"/>
 </packageDescription>

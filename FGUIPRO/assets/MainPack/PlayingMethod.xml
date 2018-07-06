@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="36,36" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="1"/>
+  <displayList>
+    <image id="n0_rfbc" name="n0" src="jxrw2x" fileName="房间/勾选框.png" xy="0,0"/>
+    <image id="n2_rfbc" name="n2" src="jxrw2y" fileName="房间/√.png" xy="0,0">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <richtext id="n3_rfbc" name="title" xy="37,0" size="10,35" font="微软雅黑" fontSize="24" color="#c56a2f" align="center" vAlign="middle" text="">
+      <gearColor controller="button" pages="1" values="#c56a2f,#000000" default="#774234,#000000"/>
+    </richtext>
+  </displayList>
+  <Button mode="Check"/>
+</component>

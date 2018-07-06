@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <controller name="checkGrop" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <image id="n0_a9ue" name="n0" src="mvw21n" fileName="Images/登录背景.png" xy="0,0" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n3_eewf" name="btn" src="eewf2o" fileName="Button1.xml" xy="619,268">
+      <Button title="普通按钮"/>
+    </component>
+    <component id="n4_jxrw" name="Radio1" src="jxrw2q" fileName="NumImages/ChoiceCountRound.xml" xy="413,260">
+      <Button checked="true" title="单选框1" controller="checkGrop" page="0"/>
+    </component>
+    <component id="n5_jxrw" name="Checkbox1" src="jxrw2w" fileName="PlayingMethod.xml" xy="202,267">
+      <Button title="复选框1"/>
+    </component>
+    <component id="n6_jxrw" name="Checkbox2" src="jxrw2w" fileName="PlayingMethod.xml" xy="202,320">
+      <Button title="复选框2"/>
+    </component>
+    <component id="n7_jxrw" name="Checkbox3" src="jxrw2w" fileName="PlayingMethod.xml" xy="202,372">
+      <Button title="复选框3"/>
+    </component>
+    <component id="n8_jxrw" name="Radio2" src="jxrw2q" fileName="NumImages/ChoiceCountRound.xml" xy="413,314">
+      <Button title="单选框2" controller="checkGrop" page="1"/>
+    </component>
+    <component id="n9_jxrw" name="Radio3" src="jxrw2q" fileName="NumImages/ChoiceCountRound.xml" xy="413,368">
+      <Button title="单选框3" controller="checkGrop" page="2"/>
+    </component>
+    <text id="n10_jxrw" name="n10" xy="413,177" size="145,32" fontSize="25" color="#3300cc" ubb="true" text="单选框1选中">
+      <gearText controller="checkGrop" pages="0,1,2" values="单选框1选中|单选框2选中|单选框3选中"/>
+    </text>
+  </displayList>
+</component>
